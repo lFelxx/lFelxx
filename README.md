@@ -103,10 +103,11 @@
 
 ---
 ## 📊 Estadísticas de mi perfil GitHub
-<div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lFelxx&show_icons=true&count_private=true&hide_border=true&title_color=1773ef&icon_color=1773ef&text_color=c9d1d9&bg_color=1a283b" alt="Felix Castro github stats" /> 
-  <img width="43%" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lFelxx&layout=compact&hide_border=true&title_color=1773ef&text_color=1773ef&bg_color=1a283b" />
-</div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lFelxx&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1a283b&title_color=1773ef&icon_color=1773ef" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lFelxx&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1a283b&title_color=1773ef&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lFelxx&bg_color=000000&color=1773ef&line=0857c0&point=042652&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
