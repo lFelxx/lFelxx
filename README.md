@@ -103,7 +103,7 @@
 
 ---
 ## 📊 Estadísticas de mi perfil GitHub
-<div align="justify left">  
+<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lFelxx&show_icons=true&count_private=true&hide_border=true&title_color=1773ef&icon_color=1773ef&text_color=c9d1d9&bg_color=1a283b" alt="Felix Castro github stats" /> 
   <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lFelxx&layout=compact&hide_border=true&title_color=1773ef&text_color=1773ef&bg_color=1a283b" />
 </div>
